@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"br.com.bradesco.automacaocartoes.annotations"},{"l":"br.com.bradesco.automacaocartoes.core"},{"l":"br.com.bradesco.pupj.pagesmobile"},{"l":"br.com.bradesco.pupj.pagesweb"},{"l":"br.com.bradesco.pupj.runners"},{"l":"br.com.bradesco.pupj.steps"},{"l":"br.com.bradesco.pupj.utilitarios"}]
