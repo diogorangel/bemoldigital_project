@@ -1,6 +1,6 @@
-# Teste Renner via DBC Company
-Projeto de Automação Portal_PJ_Automacao.
-Observação : Eu consegui concluir a automação de front, e não a de API, espero que vocês levem em consideração o trabalho que eu realizei na automação.
+# Teste Bemol Digital
+Projeto de Automação Teste Bemol Digital.
+Observação : Eu consegui concluir a automação de front, e não a de API tanto quanto eu gostaria, espero que vocês levem em consideração o trabalho que eu realizei na automação.
 Objetivo:
 	
 	Automatizar testes UI (User Interface) utilizando ferramentas como: Cucumber, jUnit, Appium, Selenium Webdriver, Java,
